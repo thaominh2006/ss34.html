@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+.form-container, .table-container{
+    margin: 20px 0;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #a9a3a3;
+}
+button{
+    padding: 5px 10px;
+    margin: 0 5px;  
+    color: red;
+}
+.form-container input, .form-container select{
+    margin: 5px;
+    padding: 5px;
+}
